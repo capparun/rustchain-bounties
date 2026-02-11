@@ -1,0 +1,2 @@
+# Generated solution
+print("Hello")
